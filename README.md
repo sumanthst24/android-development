@@ -3,7 +3,7 @@
 
 Team Details:
 
-#Mentors:-
+Mentors:-
 Sumanth Nidamanuri </br>
 Sayed Mohd Kazim Mehdi
 
