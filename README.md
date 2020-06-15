@@ -4,8 +4,8 @@
 Team Details:
 
 Mentors:-
-*Sumanth Nidamanuri
-*Sayed Mohd Kazim Mehdi
+Sumanth Nidamanuri </br>
+Sayed Mohd Kazim Mehdi
 
 
 Participants:-
